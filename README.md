@@ -24,3 +24,4 @@ Instead of standard collaborative filtering (like Spotify's algorithm), this pro
 ## 🧠 Why I Built This
 As a Dj of over 20 years it was always hard finding music that keeps the same vibe created going and discovering new to you artists and songs can be hard at times so this was made to help with that. 
 
+https://aistudio.google.com/apps/c9b0d097-6d14-4f6f-a44e-5be8d4c431b8?showPreview=true&showAssistant=true
